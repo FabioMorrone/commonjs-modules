@@ -1,0 +1,1 @@
+const nomeCompleto = required ("./names.js")
